@@ -1,0 +1,1 @@
+[ALERT] User 'DESKTOP-PPAPJOK' has 6 failed login attempts. Possible brute-force attack.
